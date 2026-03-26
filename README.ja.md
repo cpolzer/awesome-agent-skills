@@ -60,6 +60,7 @@ AI・コーディング・エージェントのためのスキル、ツール、
 | Antigravity | [antigravity.google](https://antigravity.google/docs/skills) |
 | Kiro | [kiro.dev](https://kiro.dev/docs/skills/) |
 | Gemini CLI | [geminicli.com](https://geminicli.com/docs/cli/skills/) |
+| Opencode | [opencode.ai](https://opencode.ai/)
 
 ---
 
